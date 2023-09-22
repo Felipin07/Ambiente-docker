@@ -4,8 +4,8 @@ namespace App\Http\Controllers\Site;
 
 class SiteController
 {
-    public function contact()
+    public function forum()
     {
-        return view('site/contact');
+        return view('site/forum');
     }
 }
