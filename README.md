@@ -68,6 +68,9 @@ Gere a key do projeto Laravel
 php artisan key:generate
 ```
 
+adicionar no arquivo de hosts
+127.0.0.1       kubernetes.docker.internal
+
 
 Acesse o projeto
 [http://localhost:8989](http://localhost:8989)
